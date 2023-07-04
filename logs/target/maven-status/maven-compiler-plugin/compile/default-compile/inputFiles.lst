@@ -1,0 +1,12 @@
+/home/igor/Downloads/ambiente-tracing/logs/src/main/java/br/com/alura/logs/dto/CursoDto.java
+/home/igor/Downloads/ambiente-tracing/logs/src/main/java/br/com/alura/logs/repository/CursoRepository.java
+/home/igor/Downloads/ambiente-tracing/logs/src/main/java/br/com/alura/logs/controller/CursoController.java
+/home/igor/Downloads/ambiente-tracing/logs/src/main/java/br/com/alura/logs/service/CursoService.java
+/home/igor/Downloads/ambiente-tracing/logs/src/main/java/br/com/alura/logs/dto/LogsErrorDto.java
+/home/igor/Downloads/ambiente-tracing/logs/src/main/java/br/com/alura/logs/exceptions/InternalErrorException.java
+/home/igor/Downloads/ambiente-tracing/logs/src/main/java/br/com/alura/logs/handlers/LogsHandlers.java
+/home/igor/Downloads/ambiente-tracing/logs/src/main/java/br/com/alura/logs/CursoApplication.java
+/home/igor/Downloads/ambiente-tracing/logs/src/main/java/br/com/alura/logs/exceptions/BusinessException.java
+/home/igor/Downloads/ambiente-tracing/logs/src/main/java/br/com/alura/logs/exceptions/NotFoundException.java
+/home/igor/Downloads/ambiente-tracing/logs/src/main/java/br/com/alura/logs/model/CursoModel.java
+/home/igor/Downloads/ambiente-tracing/logs/src/main/java/br/com/alura/logs/config/TimestampConfig.java

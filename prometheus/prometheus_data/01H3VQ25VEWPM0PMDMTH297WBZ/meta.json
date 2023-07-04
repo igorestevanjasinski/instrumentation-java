@@ -1,0 +1,17 @@
+{
+	"ulid": "01H3VQ25VEWPM0PMDMTH297WBZ",
+	"minTime": 1687581589950,
+	"maxTime": 1687586400000,
+	"stats": {
+		"numSamples": 63231,
+		"numSeries": 783,
+		"numChunks": 783
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01H3VQ25VEWPM0PMDMTH297WBZ"
+		]
+	},
+	"version": 1
+}
